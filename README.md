@@ -62,13 +62,16 @@ System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC).
 
 ### eCode (Code of Conduct)
   Platform	     :  Android & iOS
-  Framework             :  Sencha touch 
+  
+  Framework      :  Sencha touch 
+  
   Feature 	     :  Multi lingual (Chinese & Spanish languages)
 
   This Mobile application intent to keep the employees of Flextronics enlightened about the rules that ought to be adhered by them. It     expounds about the Do’s and don’ts of the organization in various categories. You can get to know if what you are doing is ethical or   not at your fingertips. 
 
 ### DLU/DLE Analytics
-  Platform        :  Android & iOS
+  Platform    :  Android & iOS
+  
   Framework   :  jQuery Mobile
 
   This Mobile application intended for smartphone devices which can be used by top level management to see either individual sites or     region wise labor utilization and efficiency factors in the form of dashboard.
