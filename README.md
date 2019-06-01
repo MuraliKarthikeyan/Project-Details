@@ -1,4 +1,7 @@
 ## Project-Details
+
+# Hubbell Inc 
+
 System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC). 
 
 # My Inbox App: - PO & PR Scenarios
@@ -42,3 +45,14 @@ System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC).
   - Designed and developed the xml views using SAP Web IDE.
   - Performed Launchpad configurations like Tile/Group creations for the extended app. 
 
+# SPL Screening - Release Blocked Documents
+
+  Description: Business utilizes SAP/GTS on a daily basis to review orders that are blocked in SAP/GTS due to a variety of reasons.       Business IT has been informed by certain user groups that orders must be released after "normal" US east Coast time, up till midnight   in some occasions. This app would allow trade compliance staff to release blocks with their mobile device while out of their house       during the evening, while travelling etc.
+
+  Duration: Mar 2018 to Jul 2018
+
+  Tasks performed:
+  -	Developed a prototype using SAP Build and demonstrated to business for their review. 
+  -	Designed and developed the xml views using SAP Web IDE.
+  -	Performed Launchpad configurations like Tile/Group creations for the extended app. 
+  -	Integrated Google analytics for tracking the app’s usage. 
