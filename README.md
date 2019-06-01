@@ -1,10 +1,10 @@
-## Project-Details
+# Project-Details
 
-# Hubbell Inc 
+## Hubbell Inc 
 
 System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC). 
 
-# My Inbox App: - PO & PR Scenarios
+### My Inbox App: - PO & PR Scenarios
 
   Description: Extended this std. app so that the users can see the approval matrix required to complete the document.This is necessary     information for high level approvers when making decisions on these documents. 
 
@@ -18,9 +18,9 @@ System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC).
   - Designed and developed the custom views using SAP Web IDE.
   - Performed Launchpad configurations like Tile/Group creations for the extended app. 
 
-# Materials Query App: 
+### Materials Query App: 
 
-  Description: With this app, Users can get to know the various details such as BOM, Routings, DIRs, BOM Component Single/Multi level, BOM Where Used and Material Master Extensions. 
+  Description: With this app, Users can get to know the various details such as BOM, Routings, DIRs, BOM Component Single/Multi level,     BOM Where Used and Material Master Extensions. 
   
   Duration: Mar 2017 to Jun 2017
   
@@ -31,7 +31,7 @@ System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC).
   - Designed and developed the xml views using SAP Web IDE.
   - Performed Launchpad configurations like Tile/Group creations for the extended app. 
 
-# Engineering Change System: 
+### Engineering Change System: 
 
   Description: With this app, Users can create Engineering Change request (EC) on a fly instead of going to a time-consuming T-codes (CC01, CC02) in SAP GUI. This app reduced the complex of creating/updating ECs by giving all the information required by engineers in one place and thereby significantly improving their productivity. 
 
@@ -45,7 +45,7 @@ System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC).
   - Designed and developed the xml views using SAP Web IDE.
   - Performed Launchpad configurations like Tile/Group creations for the extended app. 
 
-# SPL Screening - Release Blocked Documents
+### SPL Screening - Release Blocked Documents
 
   Description: Business utilizes SAP/GTS on a daily basis to review orders that are blocked in SAP/GTS due to a variety of reasons.       Business IT has been informed by certain user groups that orders must be released after "normal" US east Coast time, up till midnight   in some occasions. This app would allow trade compliance staff to release blocks with their mobile device while out of their house       during the evening, while travelling etc.
 
