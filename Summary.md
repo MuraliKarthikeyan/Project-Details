@@ -2,6 +2,31 @@
 
 ## Hubbell Inc 
 
+System Environment: Microsoft Azure Data Platform.
+
+### Excess and Obsolete Dashboard : E&O Report
+
+  Description: Inventory Excess and Obsolescence Report has been developed and yet to be consumed by audience from all the four hubbell   platforms.   This report gives the exact status on the invertories and their associated cost which helps you to build an effective     warhourse   management system for the company.
+
+  Duration: Aug 2019 to Dec 2019 
+
+  Tasks performed:
+  
+  - Designed a ETL solution using Azure Data Factory.
+  - Developed the SQL views and procedures to build a robust backend model 
+  
+  ### Employee Effectivity tracker : eTime Report
+
+  Description: Employee effectivitity report has been developed and consumed by executives to track the overall workers effectivity and monitor their productivity.
+  
+  Duration: Sep 2019 to Nov 2019 
+
+  Tasks performed:
+  
+  - Designed a ETL solution using Azure Data Factory.
+  - Developed the SQL views and procedures to build a robust backend model 
+
+
 System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC). 
 
 ### My Inbox App: - PO & PR Scenarios
