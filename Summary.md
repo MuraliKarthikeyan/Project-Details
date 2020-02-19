@@ -2,7 +2,7 @@
 
 ## Hubbell Inc 
 
-System Environment: Microsoft Azure Data Platform.
+#### System Environment: Microsoft Azure Data Platform.
 
 ### Excess and Obsolete Dashboard : E&O Report
 
@@ -27,7 +27,8 @@ System Environment: Microsoft Azure Data Platform.
   - Developed the SQL views and procedures to build a robust backend model 
 
 
-System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC). 
+
+#### System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC). 
 
 ### My Inbox App: - PO & PR Scenarios
 
