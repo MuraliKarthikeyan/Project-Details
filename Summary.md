@@ -26,7 +26,23 @@
   - Designed a ETL solution using Azure Data Factory.
   - Developed the SQL views and procedures to build a robust backend model 
 
+### Account Receivables - KPIs
 
+  Description: In short, an accounts receivable dashboard is a system that helps you monitor and measure where a company stands in terms of accounts receivable performance. When coupled with an accounts receivable solution, the dashboard is able to display all the most important metrics automatically. The dashboard summarizes important performance indicators such as:
+
+  - Percent of overdue receivables
+  - Average time to receive payment per invoice
+  - Accounts receivable turnover ratio
+  - Average days receivable
+  - Top customers
+  - Activities by collector
+
+  Duration: Nov 2019 to Feb 2020 
+
+  Tasks performed:
+  
+  - Designed an end to end ETL solution using Azure Databricks thru Pyspark (Python) notebooks.
+  - Developed the SQL views to build a robust backend model.
 
 #### System Environment: SAP S/4 HANA 1709 FPS02, SAP Business Suite (ECC). 
 
