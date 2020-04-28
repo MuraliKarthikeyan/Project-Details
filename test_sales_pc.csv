@@ -1,0 +1,707 @@
+Calendar Day,Group,Profit Center Group,Gross Order $
+12/01/2019,Commercial & Industrial,ACME,649703.69
+12/01/2019,Commercial & Industrial,Bryant Electric,234565.44
+12/01/2019,Commercial & Industrial,Gleason Reel,351791.45
+12/01/2019,Commercial & Industrial,Hipotronics,146436.39
+12/01/2019,Commercial & Industrial,ICD,838093.84
+12/01/2019,Commercial & Industrial,Premise Wiring,699680.67
+12/01/2019,Commercial & Industrial,RACO,3633500.32
+12/01/2019,Commercial & Industrial,WDK,5233452.68
+12/01/2019,Commercial & Industrial,Wiegmann,494204.47
+12/01/2019,Construction & Energy,Burndy - MX,2367577.26
+12/01/2019,Construction & Energy,Burndy - US,3733673.87
+12/01/2019,Construction & Energy,CMC,748692.19
+12/01/2019,Construction & Energy,Continental Industries,579389.47
+12/01/2019,Construction & Energy,GAI-Tronics - US,514799.66
+12/01/2019,Construction & Energy,GAI-Tronics UK,548449.19
+12/01/2019,Construction & Energy,Hawke - UK,460171.04
+12/01/2019,Construction & Energy,Hawke - US,76228.65
+12/01/2019,Construction & Energy,Hubbell Canada,2652601.66
+12/01/2019,Construction & Energy,Hubbell Scotland,647127.85
+12/01/2019,Construction & Energy,Killark,808546.88
+12/01/2019,Construction & Energy,RigPower Connectors,8170.33
+12/01/2019,Hubbell Lighting,AAL,95709.01
+12/01/2019,Hubbell Lighting,Alera,21994.59
+12/01/2019,Hubbell Lighting,Beacon,601182.25
+12/01/2019,Hubbell Lighting,Columbia,2164531.48
+12/01/2019,Hubbell Lighting,Dual-Lite,812804.94
+12/01/2019,Hubbell Lighting,Hubbell Control Solutions,668338.99
+12/01/2019,Hubbell Lighting,Industrial Lighting,98789.66
+12/01/2019,Hubbell Lighting,Kim,291651.90
+12/01/2019,Hubbell Lighting,Kurt Versen,15731.00
+12/01/2019,Hubbell Lighting,Litecontrol,595380.84
+12/01/2019,Hubbell Lighting,Norlux,20391.42
+12/01/2019,Hubbell Lighting,Outdoor,535191.74
+12/01/2019,Hubbell Lighting,Prescolite,761142.03
+12/01/2019,Hubbell Lighting,Progress Lighting,4119966.55
+12/01/2019,Hubbell Lighting,Security Lighting,42355.90
+12/01/2019,Hubbell Lighting,Thomas,168936.00
+12/01/2019,Integrated Solutions,iDevices,115240.78
+12/01/2019,Power Systems,Above Ground,360652.70
+12/01/2019,Power Systems,Blocks,0.00
+12/01/2019,Power Systems,Civil,293707.29
+12/01/2019,Power Systems,Cutouts  Polymer,547107.20
+12/01/2019,Power Systems,Cutouts  Porcelain,149288.19
+12/01/2019,Power Systems,Dist Automation,741374.13
+12/01/2019,Power Systems,Distribution Arresters,387246.08
+12/01/2019,Power Systems,Distribution Connectors,1298164.54
+12/01/2019,Power Systems,Distribution Insulators,171908.16
+12/01/2019,Power Systems,Drain,13735.52
+12/01/2019,Power Systems,Electro Composites,23696.34
+12/01/2019,Power Systems,Fiber & Cable Accessories,46208.65
+12/01/2019,Power Systems,Fiber Splice Products,23276.08
+12/01/2019,Power Systems,Fiberglass Construction,206275.29
+12/01/2019,Power Systems,Fuse Links,65779.01
+12/01/2019,Power Systems,Gloves,29944.56
+12/01/2019,Power Systems,HotBox,78395.82
+12/01/2019,Power Systems,HPS Shanghai,264615.99
+12/01/2019,Power Systems,Longbow,43526.69
+12/01/2019,Power Systems,OVHD Switches,354336.76
+12/01/2019,Power Systems,PCORE,336421.00
+12/01/2019,Power Systems,PenCell,321313.49
+12/01/2019,Power Systems,Pole Line Hardware,606711.50
+12/01/2019,Power Systems,Power Load,209076.15
+12/01/2019,Power Systems,Resale,223292.35
+12/01/2019,Power Systems,Reuel,9309.96
+12/01/2019,Power Systems,Sub Automation,21119.06
+12/01/2019,Power Systems,Substation Connectors,247254.29
+12/01/2019,Power Systems,Substation HC Arresters,76539.03
+12/01/2019,Power Systems,Substation SC Arresters,132012.83
+12/01/2019,Power Systems,Substation Switches,254924.59
+12/01/2019,Power Systems,Traditional Tools,683810.76
+12/01/2019,Power Systems,Transmission Arresters,68812.47
+12/01/2019,Power Systems,Transmission Connectors,641208.93
+12/01/2019,Power Systems,Transmission Insulators,337734.19
+12/01/2019,Power Systems,Turner Electric,211213.15
+12/01/2019,Power Systems,Under Ground,1860808.32
+12/01/2019,Power Systems,URD Accessories,453044.92
+12/01/2019,Power Systems,URD Arresters,102086.23
+12/01/2019,Power Systems,Utility Anchors,1044204.93
+12/08/2019,Commercial & Industrial,ACME,470752.23
+12/08/2019,Commercial & Industrial,Bryant Electric,373990.75
+12/08/2019,Commercial & Industrial,Gleason Reel,508904.71
+12/08/2019,Commercial & Industrial,Hipotronics,225988.09
+12/08/2019,Commercial & Industrial,ICD,1191578.66
+12/08/2019,Commercial & Industrial,Premise Wiring,946823.44
+12/08/2019,Commercial & Industrial,RACO,5264035.39
+12/08/2019,Commercial & Industrial,WDK,8409873.96
+12/08/2019,Commercial & Industrial,Wiegmann,678167.20
+12/08/2019,Construction & Energy,Burndy - MX,-1071590.60
+12/08/2019,Construction & Energy,Burndy - US,5349164.07
+12/08/2019,Construction & Energy,CMC,1231889.95
+12/08/2019,Construction & Energy,Continental Industries,4106473.84
+12/08/2019,Construction & Energy,GAI-Tronics - US,688785.49
+12/08/2019,Construction & Energy,GAI-Tronics UK,244413.36
+12/08/2019,Construction & Energy,Hawke - UK,240037.39
+12/08/2019,Construction & Energy,Hawke - US,342662.52
+12/08/2019,Construction & Energy,Hubbell Canada,2425545.51
+12/08/2019,Construction & Energy,Hubbell Scotland,328579.86
+12/08/2019,Construction & Energy,Killark,1779157.35
+12/08/2019,Construction & Energy,RigPower Connectors,10896.68
+12/08/2019,Hubbell Lighting,AAL,477301.46
+12/08/2019,Hubbell Lighting,Alera,37225.30
+12/08/2019,Hubbell Lighting,Beacon,675004.24
+12/08/2019,Hubbell Lighting,Columbia,3771576.40
+12/08/2019,Hubbell Lighting,Dual-Lite,1353730.74
+12/08/2019,Hubbell Lighting,Hubbell Control Solutions,1128564.32
+12/08/2019,Hubbell Lighting,Industrial Lighting,306520.60
+12/08/2019,Hubbell Lighting,Kim,1539489.36
+12/08/2019,Hubbell Lighting,Kurt Versen,356556.05
+12/08/2019,Hubbell Lighting,Litecontrol,829351.51
+12/08/2019,Hubbell Lighting,Norlux,99367.86
+12/08/2019,Hubbell Lighting,Outdoor,1091789.37
+12/08/2019,Hubbell Lighting,Prescolite,1264358.29
+12/08/2019,Hubbell Lighting,Progress Lighting,8181329.47
+12/08/2019,Hubbell Lighting,Security Lighting,117210.00
+12/08/2019,Hubbell Lighting,Thomas,83397.99
+12/08/2019,Integrated Solutions,iDevices,248886.76
+12/08/2019,Power Systems,Above Ground,397032.11
+12/08/2019,Power Systems,Blocks,0.00
+12/08/2019,Power Systems,Civil,705921.04
+12/08/2019,Power Systems,Cutouts  Polymer,768838.31
+12/08/2019,Power Systems,Cutouts  Porcelain,148761.17
+12/08/2019,Power Systems,Dist Automation,912146.01
+12/08/2019,Power Systems,Distribution Arresters,1104221.64
+12/08/2019,Power Systems,Distribution Connectors,1958799.84
+12/08/2019,Power Systems,Distribution Insulators,272716.59
+12/08/2019,Power Systems,Drain,19698.05
+12/08/2019,Power Systems,Electro Composites,375261.48
+12/08/2019,Power Systems,Fiber & Cable Accessories,142485.14
+12/08/2019,Power Systems,Fiber Splice Products,4341.22
+12/08/2019,Power Systems,Fiberglass Construction,266658.24
+12/08/2019,Power Systems,Fuse Links,123412.26
+12/08/2019,Power Systems,Gloves,201251.99
+12/08/2019,Power Systems,HotBox,107801.04
+12/08/2019,Power Systems,HPS Shanghai,285472.97
+12/08/2019,Power Systems,Longbow,46265.54
+12/08/2019,Power Systems,OVHD Switches,971878.26
+12/08/2019,Power Systems,PCORE,647513.00
+12/08/2019,Power Systems,PenCell,540610.37
+12/08/2019,Power Systems,Pole Line Hardware,1933326.80
+12/08/2019,Power Systems,Power Load,29491.19
+12/08/2019,Power Systems,Resale,333550.53
+12/08/2019,Power Systems,Reuel,42253.70
+12/08/2019,Power Systems,Sub Automation,384424.93
+12/08/2019,Power Systems,Substation Connectors,351234.98
+12/08/2019,Power Systems,Substation HC Arresters,376562.84
+12/08/2019,Power Systems,Substation SC Arresters,240765.09
+12/08/2019,Power Systems,Substation Switches,607410.67
+12/08/2019,Power Systems,Traditional Tools,921555.95
+12/08/2019,Power Systems,Transmission Arresters,43205.29
+12/08/2019,Power Systems,Transmission Connectors,879486.12
+12/08/2019,Power Systems,Transmission Insulators,1154074.72
+12/08/2019,Power Systems,Turner Electric,209230.97
+12/08/2019,Power Systems,Under Ground,2363101.91
+12/08/2019,Power Systems,URD Accessories,498943.27
+12/08/2019,Power Systems,URD Arresters,113934.30
+12/08/2019,Power Systems,Utility Anchors,1282379.87
+12/15/2019,Commercial & Industrial,ACME,824384.67
+12/15/2019,Commercial & Industrial,Bryant Electric,496688.70
+12/15/2019,Commercial & Industrial,Gleason Reel,675772.40
+12/15/2019,Commercial & Industrial,Hipotronics,101585.58
+12/15/2019,Commercial & Industrial,ICD,922315.47
+12/15/2019,Commercial & Industrial,Premise Wiring,1612062.19
+12/15/2019,Commercial & Industrial,RACO,4763450.57
+12/15/2019,Commercial & Industrial,WDK,8109445.79
+12/15/2019,Commercial & Industrial,Wiegmann,803521.43
+12/15/2019,Construction & Energy,Burndy - MX,1950393.78
+12/15/2019,Construction & Energy,Burndy - US,5522202.33
+12/15/2019,Construction & Energy,CMC,1661633.99
+12/15/2019,Construction & Energy,Continental Industries,2960342.85
+12/15/2019,Construction & Energy,GAI-Tronics - US,630444.24
+12/15/2019,Construction & Energy,GAI-Tronics UK,271783.77
+12/15/2019,Construction & Energy,Hawke - UK,102987.13
+12/15/2019,Construction & Energy,Hawke - US,104672.53
+12/15/2019,Construction & Energy,Hubbell Canada,2431546.05
+12/15/2019,Construction & Energy,Hubbell Scotland,209517.32
+12/15/2019,Construction & Energy,Killark,1708497.63
+12/15/2019,Construction & Energy,RigPower Connectors,8624.77
+12/15/2019,Hubbell Lighting,AAL,280358.42
+12/15/2019,Hubbell Lighting,Alera,52860.11
+12/15/2019,Hubbell Lighting,Beacon,989442.63
+12/15/2019,Hubbell Lighting,Columbia,3910922.06
+12/15/2019,Hubbell Lighting,Dual-Lite,2223874.71
+12/15/2019,Hubbell Lighting,Hubbell Control Solutions,765226.10
+12/15/2019,Hubbell Lighting,Industrial Lighting,215435.77
+12/15/2019,Hubbell Lighting,Kim,1044985.29
+12/15/2019,Hubbell Lighting,Kurt Versen,12301.11
+12/15/2019,Hubbell Lighting,Litecontrol,605606.68
+12/15/2019,Hubbell Lighting,Norlux,241499.57
+12/15/2019,Hubbell Lighting,Outdoor,1187574.78
+12/15/2019,Hubbell Lighting,Prescolite,1573234.62
+12/15/2019,Hubbell Lighting,Progress Lighting,6141033.53
+12/15/2019,Hubbell Lighting,Security Lighting,91718.85
+12/15/2019,Hubbell Lighting,Thomas,236242.50
+12/15/2019,Integrated Solutions,iDevices,146388.31
+12/15/2019,Power Systems,Above Ground,377274.33
+12/15/2019,Power Systems,Blocks,10735.00
+12/15/2019,Power Systems,Civil,1064282.06
+12/15/2019,Power Systems,Cutouts  Polymer,994432.38
+12/15/2019,Power Systems,Cutouts  Porcelain,724426.55
+12/15/2019,Power Systems,Dist Automation,462949.61
+12/15/2019,Power Systems,Distribution Arresters,816809.92
+12/15/2019,Power Systems,Distribution Connectors,2271460.50
+12/15/2019,Power Systems,Distribution Insulators,213118.22
+12/15/2019,Power Systems,Drain,13632.40
+12/15/2019,Power Systems,Electro Composites,22781.28
+12/15/2019,Power Systems,Fiber & Cable Accessories,57156.29
+12/15/2019,Power Systems,Fiber Splice Products,238641.57
+12/15/2019,Power Systems,Fiberglass Construction,367892.74
+12/15/2019,Power Systems,Fuse Links,134873.23
+12/15/2019,Power Systems,Gloves,22607.48
+12/15/2019,Power Systems,HotBox,167780.78
+12/15/2019,Power Systems,HPS Shanghai,179533.35
+12/15/2019,Power Systems,Longbow,95009.46
+12/15/2019,Power Systems,OVHD Switches,377162.31
+12/15/2019,Power Systems,PCORE,432445.00
+12/15/2019,Power Systems,PenCell,83989.08
+12/15/2019,Power Systems,Pole Line Hardware,1737986.94
+12/15/2019,Power Systems,Power Load,65233.32
+12/15/2019,Power Systems,Resale,221780.55
+12/15/2019,Power Systems,Reuel,56042.82
+12/15/2019,Power Systems,Sub Automation,600769.49
+12/15/2019,Power Systems,Substation Connectors,391323.12
+12/15/2019,Power Systems,Substation HC Arresters,321645.43
+12/15/2019,Power Systems,Substation SC Arresters,328694.65
+12/15/2019,Power Systems,Substation Switches,324271.59
+12/15/2019,Power Systems,Traditional Tools,996183.37
+12/15/2019,Power Systems,Transmission Arresters,18615.05
+12/15/2019,Power Systems,Transmission Connectors,536606.68
+12/15/2019,Power Systems,Transmission Insulators,778838.80
+12/15/2019,Power Systems,Turner Electric,227775.52
+12/15/2019,Power Systems,Under Ground,2857938.82
+12/15/2019,Power Systems,URD Accessories,1831396.23
+12/15/2019,Power Systems,URD Arresters,88912.14
+12/15/2019,Power Systems,Utility Anchors,1101888.98
+12/22/2019,Commercial & Industrial,ACME,1081982.91
+12/22/2019,Commercial & Industrial,Bryant Electric,248993.09
+12/22/2019,Commercial & Industrial,Gleason Reel,699543.99
+12/22/2019,Commercial & Industrial,Hipotronics,277890.27
+12/22/2019,Commercial & Industrial,ICD,1200956.97
+12/22/2019,Commercial & Industrial,Premise Wiring,814724.20
+12/22/2019,Commercial & Industrial,RACO,5112904.86
+12/22/2019,Commercial & Industrial,WDK,8417960.47
+12/22/2019,Commercial & Industrial,Wiegmann,898538.61
+12/22/2019,Construction & Energy,Burndy - MX,258262.60
+12/22/2019,Construction & Energy,Burndy - US,35242737.34
+12/22/2019,Construction & Energy,CMC,1846135.74
+12/22/2019,Construction & Energy,Continental Industries,1152542.16
+12/22/2019,Construction & Energy,GAI-Tronics - US,509716.33
+12/22/2019,Construction & Energy,GAI-Tronics UK,247670.28
+12/22/2019,Construction & Energy,Hawke - UK,638202.17
+12/22/2019,Construction & Energy,Hawke - US,208316.06
+12/22/2019,Construction & Energy,Hubbell Canada,3083412.32
+12/22/2019,Construction & Energy,Hubbell Scotland,573896.63
+12/22/2019,Construction & Energy,Killark,1574596.70
+12/22/2019,Construction & Energy,RigPower Connectors,228.00
+12/22/2019,Hubbell Lighting,AAL,280864.17
+12/22/2019,Hubbell Lighting,Alera,25290.29
+12/22/2019,Hubbell Lighting,Beacon,842557.28
+12/22/2019,Hubbell Lighting,Columbia,3569727.15
+12/22/2019,Hubbell Lighting,Dual-Lite,1450334.21
+12/22/2019,Hubbell Lighting,Hubbell Control Solutions,1263991.07
+12/22/2019,Hubbell Lighting,Industrial Lighting,258345.11
+12/22/2019,Hubbell Lighting,Kim,795491.82
+12/22/2019,Hubbell Lighting,Kurt Versen,6329.98
+12/22/2019,Hubbell Lighting,Litecontrol,880800.86
+12/22/2019,Hubbell Lighting,Norlux,136256.65
+12/22/2019,Hubbell Lighting,Outdoor,1117879.87
+12/22/2019,Hubbell Lighting,Prescolite,786679.03
+12/22/2019,Hubbell Lighting,Progress Lighting,5142892.80
+12/22/2019,Hubbell Lighting,Security Lighting,124622.65
+12/22/2019,Hubbell Lighting,Thomas,189410.62
+12/22/2019,Integrated Solutions,iDevices,188281.30
+12/22/2019,Power Systems,Above Ground,498136.74
+12/22/2019,Power Systems,Blocks,0.00
+12/22/2019,Power Systems,Civil,669425.56
+12/22/2019,Power Systems,Cutouts  Polymer,948122.84
+12/22/2019,Power Systems,Cutouts  Porcelain,593480.75
+12/22/2019,Power Systems,Dist Automation,834063.35
+12/22/2019,Power Systems,Distribution Arresters,839368.51
+12/22/2019,Power Systems,Distribution Connectors,1857864.77
+12/22/2019,Power Systems,Distribution Insulators,279560.57
+12/22/2019,Power Systems,Drain,33927.28
+12/22/2019,Power Systems,Electro Composites,133034.00
+12/22/2019,Power Systems,Fiber & Cable Accessories,104358.07
+12/22/2019,Power Systems,Fiber Splice Products,37882.06
+12/22/2019,Power Systems,Fiberglass Construction,557264.62
+12/22/2019,Power Systems,Fuse Links,88974.44
+12/22/2019,Power Systems,Gloves,86831.40
+12/22/2019,Power Systems,HotBox,79755.99
+12/22/2019,Power Systems,HPS Shanghai,43909.91
+12/22/2019,Power Systems,Longbow,122160.19
+12/22/2019,Power Systems,OVHD Switches,560235.01
+12/22/2019,Power Systems,PCORE,671864.00
+12/22/2019,Power Systems,PenCell,577997.68
+12/22/2019,Power Systems,Pole Line Hardware,1618664.57
+12/22/2019,Power Systems,Power Load,152745.88
+12/22/2019,Power Systems,Resale,267643.77
+12/22/2019,Power Systems,Reuel,116775.01
+12/22/2019,Power Systems,Sub Automation,358062.97
+12/22/2019,Power Systems,Substation Connectors,317010.28
+12/22/2019,Power Systems,Substation HC Arresters,233189.52
+12/22/2019,Power Systems,Substation SC Arresters,318618.21
+12/22/2019,Power Systems,Substation Switches,321107.89
+12/22/2019,Power Systems,Traditional Tools,764012.72
+12/22/2019,Power Systems,Transmission Arresters,142833.77
+12/22/2019,Power Systems,Transmission Connectors,889407.12
+12/22/2019,Power Systems,Transmission Insulators,1288602.55
+12/22/2019,Power Systems,Turner Electric,139509.56
+12/22/2019,Power Systems,Under Ground,2321177.79
+12/22/2019,Power Systems,URD Accessories,395985.26
+12/22/2019,Power Systems,URD Arresters,101175.73
+12/22/2019,Power Systems,Utility Anchors,1407408.18
+12/29/2019,Commercial & Industrial,ACME,361219.60
+12/29/2019,Commercial & Industrial,Bryant Electric,136712.95
+12/29/2019,Commercial & Industrial,Gleason Reel,333641.92
+12/29/2019,Commercial & Industrial,Hipotronics,83020.00
+12/29/2019,Commercial & Industrial,ICD,411284.37
+12/29/2019,Commercial & Industrial,Premise Wiring,726927.02
+12/29/2019,Commercial & Industrial,RACO,2695991.30
+12/29/2019,Commercial & Industrial,WDK,4393518.99
+12/29/2019,Commercial & Industrial,Wiegmann,400764.81
+12/29/2019,Construction & Energy,Burndy - MX,778076.08
+12/29/2019,Construction & Energy,Burndy - US,-27285240.04
+12/29/2019,Construction & Energy,CMC,1270856.39
+12/29/2019,Construction & Energy,Continental Industries,-425320.19
+12/29/2019,Construction & Energy,GAI-Tronics - US,683694.90
+12/29/2019,Construction & Energy,GAI-Tronics UK,157631.76
+12/29/2019,Construction & Energy,Hawke - UK,253933.34
+12/29/2019,Construction & Energy,Hawke - US,136237.19
+12/29/2019,Construction & Energy,Hubbell Canada,752142.16
+12/29/2019,Construction & Energy,Hubbell Scotland,84412.39
+12/29/2019,Construction & Energy,Killark,608681.24
+12/29/2019,Construction & Energy,RigPower Connectors,3100.98
+12/29/2019,Hubbell Lighting,AAL,160698.37
+12/29/2019,Hubbell Lighting,Alera,24559.75
+12/29/2019,Hubbell Lighting,Beacon,259859.15
+12/29/2019,Hubbell Lighting,Columbia,1631681.91
+12/29/2019,Hubbell Lighting,Dual-Lite,694500.73
+12/29/2019,Hubbell Lighting,Hubbell Control Solutions,296032.04
+12/29/2019,Hubbell Lighting,Industrial Lighting,114757.12
+12/29/2019,Hubbell Lighting,Kim,104236.08
+12/29/2019,Hubbell Lighting,Kurt Versen,12582.86
+12/29/2019,Hubbell Lighting,Litecontrol,269447.87
+12/29/2019,Hubbell Lighting,Norlux,-14443.20
+12/29/2019,Hubbell Lighting,Outdoor,611829.89
+12/29/2019,Hubbell Lighting,Prescolite,418727.03
+12/29/2019,Hubbell Lighting,Progress Lighting,2798588.79
+12/29/2019,Hubbell Lighting,Security Lighting,52237.55
+12/29/2019,Hubbell Lighting,Thomas,61364.35
+12/29/2019,Integrated Solutions,iDevices,87687.15
+12/29/2019,Power Systems,Above Ground,194411.73
+12/29/2019,Power Systems,Blocks,17604.00
+12/29/2019,Power Systems,Civil,413444.21
+12/29/2019,Power Systems,Cutouts  Polymer,543871.08
+12/29/2019,Power Systems,Cutouts  Porcelain,294345.95
+12/29/2019,Power Systems,Dist Automation,300297.35
+12/29/2019,Power Systems,Distribution Arresters,340445.52
+12/29/2019,Power Systems,Distribution Connectors,1268789.60
+12/29/2019,Power Systems,Distribution Insulators,209439.68
+12/29/2019,Power Systems,Drain,0.00
+12/29/2019,Power Systems,Electro Composites,18474.76
+12/29/2019,Power Systems,Fiber & Cable Accessories,85772.50
+12/29/2019,Power Systems,Fiber Splice Products,13011.36
+12/29/2019,Power Systems,Fiberglass Construction,237546.38
+12/29/2019,Power Systems,Fuse Links,87447.89
+12/29/2019,Power Systems,Gloves,7212.91
+12/29/2019,Power Systems,HotBox,61032.96
+12/29/2019,Power Systems,HPS Shanghai,60749.37
+12/29/2019,Power Systems,Longbow,65757.56
+12/29/2019,Power Systems,OVHD Switches,187783.42
+12/29/2019,Power Systems,PCORE,196929.00
+12/29/2019,Power Systems,PenCell,245817.24
+12/29/2019,Power Systems,Pole Line Hardware,1197638.63
+12/29/2019,Power Systems,Power Load,144245.39
+12/29/2019,Power Systems,Resale,138652.74
+12/29/2019,Power Systems,Reuel,16950.75
+12/29/2019,Power Systems,Sub Automation,359618.53
+12/29/2019,Power Systems,Substation Connectors,192044.53
+12/29/2019,Power Systems,Substation HC Arresters,166670.08
+12/29/2019,Power Systems,Substation SC Arresters,124099.13
+12/29/2019,Power Systems,Substation Switches,702226.17
+12/29/2019,Power Systems,Traditional Tools,384957.81
+12/29/2019,Power Systems,Transmission Arresters,18456.85
+12/29/2019,Power Systems,Transmission Connectors,899150.17
+12/29/2019,Power Systems,Transmission Insulators,2144089.05
+12/29/2019,Power Systems,Turner Electric,39104.90
+12/29/2019,Power Systems,Under Ground,1050783.78
+12/29/2019,Power Systems,URD Accessories,291238.80
+12/29/2019,Power Systems,URD Arresters,148287.80
+12/29/2019,Power Systems,Utility Anchors,556735.97
+01/05/2020,Commercial & Industrial,ACME,465302.84
+01/05/2020,Commercial & Industrial,Bryant Electric,305810.83
+01/05/2020,Commercial & Industrial,Gleason Reel,524285.75
+01/05/2020,Commercial & Industrial,Hipotronics,27202.18
+01/05/2020,Commercial & Industrial,ICD,982715.77
+01/05/2020,Commercial & Industrial,Premise Wiring,524165.54
+01/05/2020,Commercial & Industrial,RACO,4388006.63
+01/05/2020,Commercial & Industrial,WDK,4147091.87
+01/05/2020,Commercial & Industrial,Wiegmann,391506.00
+01/05/2020,Construction & Energy,Burndy - MX,297682.37
+01/05/2020,Construction & Energy,Burndy - US,2544287.66
+01/05/2020,Construction & Energy,CMC,1026186.45
+01/05/2020,Construction & Energy,Continental Industries,734125.67
+01/05/2020,Construction & Energy,GAI-Tronics - US,535156.08
+01/05/2020,Construction & Energy,GAI-Tronics UK,78626.90
+01/05/2020,Construction & Energy,Hawke - UK,52963.62
+01/05/2020,Construction & Energy,Hawke - US,56800.55
+01/05/2020,Construction & Energy,Hubbell Canada,1041589.57
+01/05/2020,Construction & Energy,Hubbell Scotland,51235.21
+01/05/2020,Construction & Energy,Killark,793662.29
+01/05/2020,Construction & Energy,RigPower Connectors,294.50
+01/05/2020,Hubbell Lighting,AAL,102832.31
+01/05/2020,Hubbell Lighting,Alera,16888.83
+01/05/2020,Hubbell Lighting,Beacon,434663.87
+01/05/2020,Hubbell Lighting,Columbia,1674413.13
+01/05/2020,Hubbell Lighting,Dual-Lite,512963.79
+01/05/2020,Hubbell Lighting,Hubbell Control Solutions,326523.28
+01/05/2020,Hubbell Lighting,Industrial Lighting,150924.88
+01/05/2020,Hubbell Lighting,Kim,362869.96
+01/05/2020,Hubbell Lighting,Kurt Versen,-1743.91
+01/05/2020,Hubbell Lighting,Litecontrol,354673.12
+01/05/2020,Hubbell Lighting,Norlux,11755.95
+01/05/2020,Hubbell Lighting,Outdoor,540502.92
+01/05/2020,Hubbell Lighting,Prescolite,419345.19
+01/05/2020,Hubbell Lighting,Progress Lighting,3408922.08
+01/05/2020,Hubbell Lighting,Security Lighting,60539.91
+01/05/2020,Hubbell Lighting,Thomas,36789.79
+01/05/2020,Integrated Solutions,iDevices,49876.46
+01/05/2020,Power Systems,Above Ground,303235.42
+01/05/2020,Power Systems,Blocks,0.00
+01/05/2020,Power Systems,Civil,1068262.36
+01/05/2020,Power Systems,Cutouts  Polymer,498025.53
+01/05/2020,Power Systems,Cutouts  Porcelain,131837.80
+01/05/2020,Power Systems,Dist Automation,433865.48
+01/05/2020,Power Systems,Distribution Arresters,587006.32
+01/05/2020,Power Systems,Distribution Connectors,954167.10
+01/05/2020,Power Systems,Distribution Guards,3087.60
+01/05/2020,Power Systems,Distribution Insulators,77204.56
+01/05/2020,Power Systems,Drain,33341.70
+01/05/2020,Power Systems,Electro Composites,0.00
+01/05/2020,Power Systems,Fiber & Cable Accessories,-22500.52
+01/05/2020,Power Systems,Fiber Splice Products,16405.13
+01/05/2020,Power Systems,Fiberglass Construction,177325.15
+01/05/2020,Power Systems,Fuse Links,17093.43
+01/05/2020,Power Systems,Gloves,106229.52
+01/05/2020,Power Systems,HotBox,42526.35
+01/05/2020,Power Systems,HPS Shanghai,28724.95
+01/05/2020,Power Systems,Longbow,2645026.02
+01/05/2020,Power Systems,OVHD Switches,302639.20
+01/05/2020,Power Systems,PCORE,407845.00
+01/05/2020,Power Systems,PenCell,189767.83
+01/05/2020,Power Systems,Pole Line Hardware,759973.16
+01/05/2020,Power Systems,Power Load,83233.85
+01/05/2020,Power Systems,Resale,197886.67
+01/05/2020,Power Systems,Reuel,268097.21
+01/05/2020,Power Systems,Sub Automation,23769.51
+01/05/2020,Power Systems,Substation Connectors,303884.27
+01/05/2020,Power Systems,Substation HC Arresters,177352.47
+01/05/2020,Power Systems,Substation SC Arresters,140360.98
+01/05/2020,Power Systems,Substation Switches,821665.65
+01/05/2020,Power Systems,Traditional Tools,474264.43
+01/05/2020,Power Systems,Transmission Arresters,11221.96
+01/05/2020,Power Systems,Transmission Connectors,618427.96
+01/05/2020,Power Systems,Transmission Insulators,2161733.30
+01/05/2020,Power Systems,Turner Electric,-10639.16
+01/05/2020,Power Systems,Under Ground,1520469.51
+01/05/2020,Power Systems,URD Accessories,353297.13
+01/05/2020,Power Systems,URD Arresters,59592.22
+01/05/2020,Power Systems,Utility Anchors,825565.21
+01/12/2020,Commercial & Industrial,ACME,865621.53
+01/12/2020,Commercial & Industrial,Bryant Electric,284159.06
+01/12/2020,Commercial & Industrial,Gleason Reel,545264.90
+01/12/2020,Commercial & Industrial,Hipotronics,178146.36
+01/12/2020,Commercial & Industrial,ICD,1439728.14
+01/12/2020,Commercial & Industrial,Premise Wiring,928938.68
+01/12/2020,Commercial & Industrial,RACO,5561478.84
+01/12/2020,Commercial & Industrial,WDK,8291151.80
+01/12/2020,Commercial & Industrial,Wiegmann,887176.81
+01/12/2020,Construction & Energy,Burndy - MX,274091.66
+01/12/2020,Construction & Energy,Burndy - US,6444664.21
+01/12/2020,Construction & Energy,CMC,2110908.79
+01/12/2020,Construction & Energy,Continental Industries,1352757.70
+01/12/2020,Construction & Energy,GAI-Tronics - US,698929.74
+01/12/2020,Construction & Energy,GAI-Tronics UK,152744.44
+01/12/2020,Construction & Energy,Hawke - UK,281638.31
+01/12/2020,Construction & Energy,Hawke - US,307486.39
+01/12/2020,Construction & Energy,Hubbell Canada,2518591.95
+01/12/2020,Construction & Energy,Hubbell Scotland,789375.57
+01/12/2020,Construction & Energy,Killark,1959165.39
+01/12/2020,Construction & Energy,RigPower Connectors,33984.79
+01/12/2020,Hubbell Lighting,AAL,346091.49
+01/12/2020,Hubbell Lighting,Alera,24568.89
+01/12/2020,Hubbell Lighting,Beacon,979004.70
+01/12/2020,Hubbell Lighting,Columbia,2873191.29
+01/12/2020,Hubbell Lighting,Dual-Lite,1424832.51
+01/12/2020,Hubbell Lighting,Hubbell Control Solutions,841450.49
+01/12/2020,Hubbell Lighting,Industrial Lighting,289642.38
+01/12/2020,Hubbell Lighting,Kim,579698.72
+01/12/2020,Hubbell Lighting,Kurt Versen,25701.28
+01/12/2020,Hubbell Lighting,Litecontrol,838468.11
+01/12/2020,Hubbell Lighting,Norlux,-15272.69
+01/12/2020,Hubbell Lighting,Outdoor,1302906.25
+01/12/2020,Hubbell Lighting,Prescolite,933682.75
+01/12/2020,Hubbell Lighting,Progress Lighting,5308064.58
+01/12/2020,Hubbell Lighting,Security Lighting,106426.70
+01/12/2020,Hubbell Lighting,Thomas,271585.03
+01/12/2020,Integrated Solutions,iDevices,145255.07
+01/12/2020,Power Systems,Above Ground,980687.97
+01/12/2020,Power Systems,Blocks,0.00
+01/12/2020,Power Systems,Civil,841858.20
+01/12/2020,Power Systems,Cutouts  Polymer,704906.23
+01/12/2020,Power Systems,Cutouts  Porcelain,281876.00
+01/12/2020,Power Systems,Dist Automation,792459.52
+01/12/2020,Power Systems,Distribution Arresters,1025029.45
+01/12/2020,Power Systems,Distribution Connectors,1853663.65
+01/12/2020,Power Systems,Distribution Guards,14960.18
+01/12/2020,Power Systems,Distribution Insulators,280237.07
+01/12/2020,Power Systems,Drain,18256.18
+01/12/2020,Power Systems,Electro Composites,57871.55
+01/12/2020,Power Systems,Fiber & Cable Accessories,41397.13
+01/12/2020,Power Systems,Fiber Splice Products,39271.73
+01/12/2020,Power Systems,Fiberglass Construction,406368.91
+01/12/2020,Power Systems,Fuse Links,103995.32
+01/12/2020,Power Systems,Gloves,48830.75
+01/12/2020,Power Systems,HotBox,167859.59
+01/12/2020,Power Systems,HPS Shanghai,55178.38
+01/12/2020,Power Systems,Longbow,65536.59
+01/12/2020,Power Systems,OVHD Switches,668588.77
+01/12/2020,Power Systems,PCORE,789554.00
+01/12/2020,Power Systems,PenCell,368035.95
+01/12/2020,Power Systems,Pole Line Hardware,1897761.26
+01/12/2020,Power Systems,Power Load,87336.54
+01/12/2020,Power Systems,Resale,256610.69
+01/12/2020,Power Systems,Reuel,18667.99
+01/12/2020,Power Systems,Sub Automation,260652.75
+01/12/2020,Power Systems,Substation Connectors,273120.60
+01/12/2020,Power Systems,Substation HC Arresters,122363.86
+01/12/2020,Power Systems,Substation SC Arresters,232345.34
+01/12/2020,Power Systems,Substation Switches,1134222.58
+01/12/2020,Power Systems,Traditional Tools,637744.91
+01/12/2020,Power Systems,Transmission Arresters,27634.22
+01/12/2020,Power Systems,Transmission Connectors,1645287.94
+01/12/2020,Power Systems,Transmission Insulators,601955.09
+01/12/2020,Power Systems,Turner Electric,291659.49
+01/12/2020,Power Systems,Under Ground,1864590.46
+01/12/2020,Power Systems,URD Accessories,424329.52
+01/12/2020,Power Systems,URD Arresters,137124.11
+01/12/2020,Power Systems,Utility Anchors,1288590.63
+01/19/2020,Commercial & Industrial,ACME,1154019.95
+01/19/2020,Commercial & Industrial,Bryant Electric,510800.36
+01/19/2020,Commercial & Industrial,Gleason Reel,619518.25
+01/19/2020,Commercial & Industrial,Hipotronics,92308.43
+01/19/2020,Commercial & Industrial,ICD,1160624.83
+01/19/2020,Commercial & Industrial,Premise Wiring,1182637.23
+01/19/2020,Commercial & Industrial,RACO,4995401.83
+01/19/2020,Commercial & Industrial,WDK,8922829.42
+01/19/2020,Commercial & Industrial,Wiegmann,886379.85
+01/19/2020,Construction & Energy,Burndy - MX,605057.63
+01/19/2020,Construction & Energy,Burndy - US,6283842.73
+01/19/2020,Construction & Energy,CMC,1711350.97
+01/19/2020,Construction & Energy,Continental Industries,1821411.46
+01/19/2020,Construction & Energy,GAI-Tronics - US,596616.95
+01/19/2020,Construction & Energy,GAI-Tronics UK,336430.22
+01/19/2020,Construction & Energy,Hawke - UK,306930.01
+01/19/2020,Construction & Energy,Hawke - US,103043.50
+01/19/2020,Construction & Energy,Hubbell Canada,2212467.04
+01/19/2020,Construction & Energy,Hubbell Scotland,695902.88
+01/19/2020,Construction & Energy,Killark,1954539.90
+01/19/2020,Construction & Energy,RigPower Connectors,831.24
+01/19/2020,Hubbell Lighting,AAL,393190.16
+01/19/2020,Hubbell Lighting,Alera,31512.48
+01/19/2020,Hubbell Lighting,Beacon,680588.03
+01/19/2020,Hubbell Lighting,Columbia,3455541.18
+01/19/2020,Hubbell Lighting,Dual-Lite,2460760.46
+01/19/2020,Hubbell Lighting,Hubbell Control Solutions,628337.80
+01/19/2020,Hubbell Lighting,Industrial Lighting,287502.39
+01/19/2020,Hubbell Lighting,Kim,1424026.32
+01/19/2020,Hubbell Lighting,Kurt Versen,3762.23
+01/19/2020,Hubbell Lighting,Litecontrol,952446.73
+01/19/2020,Hubbell Lighting,Norlux,167468.42
+01/19/2020,Hubbell Lighting,Outdoor,1306275.75
+01/19/2020,Hubbell Lighting,Prescolite,970019.36
+01/19/2020,Hubbell Lighting,Progress Lighting,5098508.79
+01/19/2020,Hubbell Lighting,Security Lighting,130794.52
+01/19/2020,Hubbell Lighting,Thomas,341528.92
+01/19/2020,Integrated Solutions,iDevices,188897.93
+01/19/2020,Power Systems,Above Ground,557955.60
+01/19/2020,Power Systems,Blocks,5008.50
+01/19/2020,Power Systems,Civil,490882.22
+01/19/2020,Power Systems,Cutouts  Polymer,897685.69
+01/19/2020,Power Systems,Cutouts  Porcelain,579998.48
+01/19/2020,Power Systems,Dist Automation,892699.44
+01/19/2020,Power Systems,Distribution Arresters,1029066.68
+01/19/2020,Power Systems,Distribution Connectors,2243265.45
+01/19/2020,Power Systems,Distribution Guards,8092.26
+01/19/2020,Power Systems,Distribution Insulators,339503.13
+01/19/2020,Power Systems,Drain,40659.01
+01/19/2020,Power Systems,Electro Composites,27906.28
+01/19/2020,Power Systems,Fiber & Cable Accessories,86344.85
+01/19/2020,Power Systems,Fiber Splice Products,101694.59
+01/19/2020,Power Systems,Fiberglass Construction,420561.49
+01/19/2020,Power Systems,Fuse Links,137380.35
+01/19/2020,Power Systems,Gloves,630140.21
+01/19/2020,Power Systems,HotBox,88224.60
+01/19/2020,Power Systems,HPS Shanghai,40638.72
+01/19/2020,Power Systems,Longbow,40796.63
+01/19/2020,Power Systems,OVHD Switches,708697.97
+01/19/2020,Power Systems,PCORE,688769.00
+01/19/2020,Power Systems,PenCell,515231.33
+01/19/2020,Power Systems,Pole Line Hardware,2027500.34
+01/19/2020,Power Systems,Power Load,13430.83
+01/19/2020,Power Systems,Resale,322249.90
+01/19/2020,Power Systems,Reuel,71166.54
+01/19/2020,Power Systems,Sub Automation,228124.77
+01/19/2020,Power Systems,Substation Connectors,532796.63
+01/19/2020,Power Systems,Substation HC Arresters,247793.38
+01/19/2020,Power Systems,Substation SC Arresters,225194.87
+01/19/2020,Power Systems,Substation Switches,1397660.88
+01/19/2020,Power Systems,Traditional Tools,922675.71
+01/19/2020,Power Systems,Transmission Arresters,20536.98
+01/19/2020,Power Systems,Transmission Connectors,1365170.47
+01/19/2020,Power Systems,Transmission Insulators,978806.60
+01/19/2020,Power Systems,Turner Electric,332079.13
+01/19/2020,Power Systems,Under Ground,3001220.82
+01/19/2020,Power Systems,URD Accessories,557966.67
+01/19/2020,Power Systems,URD Arresters,92578.17
+01/19/2020,Power Systems,Utility Anchors,1778658.14
+01/26/2020,Commercial & Industrial,ACME,693519.76
+01/26/2020,Commercial & Industrial,Bryant Electric,315666.01
+01/26/2020,Commercial & Industrial,Gleason Reel,725789.31
+01/26/2020,Commercial & Industrial,Hipotronics,243404.75
+01/26/2020,Commercial & Industrial,ICD,1456418.48
+01/26/2020,Commercial & Industrial,Premise Wiring,1274925.14
+01/26/2020,Commercial & Industrial,RACO,3896432.89
+01/26/2020,Commercial & Industrial,WDK,8668006.61
+01/26/2020,Commercial & Industrial,Wiegmann,747251.98
+01/26/2020,Construction & Energy,Burndy - MX,606169.55
+01/26/2020,Construction & Energy,Burndy - US,5418167.35
+01/26/2020,Construction & Energy,CMC,1617613.82
+01/26/2020,Construction & Energy,Continental Industries,1884039.77
+01/26/2020,Construction & Energy,GAI-Tronics - US,831509.36
+01/26/2020,Construction & Energy,GAI-Tronics UK,255404.04
+01/26/2020,Construction & Energy,Hawke - UK,165703.83
+01/26/2020,Construction & Energy,Hawke - US,153303.35
+01/26/2020,Construction & Energy,Hubbell Canada,1958131.88
+01/26/2020,Construction & Energy,Hubbell Scotland,290407.57
+01/26/2020,Construction & Energy,Killark,1676648.32
+01/26/2020,Construction & Energy,RigPower Connectors,6505.36
+01/26/2020,Hubbell Lighting,AAL,247674.78
+01/26/2020,Hubbell Lighting,Alera,73500.34
+01/26/2020,Hubbell Lighting,Beacon,740346.95
+01/26/2020,Hubbell Lighting,Columbia,3336681.05
+01/26/2020,Hubbell Lighting,Dual-Lite,1572018.90
+01/26/2020,Hubbell Lighting,Hubbell Control Solutions,714988.11
+01/26/2020,Hubbell Lighting,Industrial Lighting,192607.15
+01/26/2020,Hubbell Lighting,Kim,596318.79
+01/26/2020,Hubbell Lighting,Kurt Versen,13561.03
+01/26/2020,Hubbell Lighting,Litecontrol,764376.72
+01/26/2020,Hubbell Lighting,Norlux,75639.55
+01/26/2020,Hubbell Lighting,Outdoor,991815.87
+01/26/2020,Hubbell Lighting,Prescolite,1098175.53
+01/26/2020,Hubbell Lighting,Progress Lighting,5300691.17
+01/26/2020,Hubbell Lighting,Security Lighting,118396.47
+01/26/2020,Hubbell Lighting,Thomas,232285.16
+01/26/2020,Integrated Solutions,iDevices,205307.58
+01/26/2020,Power Systems,Above Ground,313142.69
+01/26/2020,Power Systems,Blocks,0.00
+01/26/2020,Power Systems,Civil,753291.56
+01/26/2020,Power Systems,Cutouts  Polymer,881549.77
+01/26/2020,Power Systems,Cutouts  Porcelain,194608.64
+01/26/2020,Power Systems,Dist Automation,687734.58
+01/26/2020,Power Systems,Distribution Arresters,592566.02
+01/26/2020,Power Systems,Distribution Connectors,1568666.06
+01/26/2020,Power Systems,Distribution Guards,-2434.39
+01/26/2020,Power Systems,Distribution Insulators,215026.44
+01/26/2020,Power Systems,Drain,41460.31
+01/26/2020,Power Systems,Electro Composites,150420.85
+01/26/2020,Power Systems,Fiber & Cable Accessories,74667.54
+01/26/2020,Power Systems,Fiber Splice Products,32243.07
+01/26/2020,Power Systems,Fiberglass Construction,247727.46
+01/26/2020,Power Systems,Fuse Links,75726.78
+01/26/2020,Power Systems,Gloves,89892.98
+01/26/2020,Power Systems,HotBox,141577.06
+01/26/2020,Power Systems,HPS Shanghai,221.20
+01/26/2020,Power Systems,Longbow,0.00
+01/26/2020,Power Systems,OVHD Switches,474631.46
+01/26/2020,Power Systems,PCORE,898615.00
+01/26/2020,Power Systems,PenCell,519477.87
+01/26/2020,Power Systems,Pole Line Hardware,1682434.46
+01/26/2020,Power Systems,Power Load,91889.72
+01/26/2020,Power Systems,Resale,258110.90
+01/26/2020,Power Systems,Reuel,60474.95
+01/26/2020,Power Systems,Sub Automation,132037.61
+01/26/2020,Power Systems,Substation Connectors,460448.07
+01/26/2020,Power Systems,Substation HC Arresters,170383.10
+01/26/2020,Power Systems,Substation SC Arresters,371078.53
+01/26/2020,Power Systems,Substation Switches,2342831.89
+01/26/2020,Power Systems,Traditional Tools,779602.71
+01/26/2020,Power Systems,Transmission Arresters,567072.28
+01/26/2020,Power Systems,Transmission Connectors,862202.92
+01/26/2020,Power Systems,Transmission Insulators,1547292.89
+01/26/2020,Power Systems,Turner Electric,-1649165.69
+01/26/2020,Power Systems,Under Ground,2722402.49
+01/26/2020,Power Systems,URD Accessories,344354.94
+01/26/2020,Power Systems,URD Arresters,92354.32
+01/26/2020,Power Systems,Utility Anchors,1429461.70
